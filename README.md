@@ -21,3 +21,7 @@ $ docker service create --name whoami --publish 8080:8000 hypriot/rpi-whoami
 $ curl -4 localhost:8080
 I'm e6d4a6598902
 ```
+
+### Dockerhub
+See the image on Dockerhub: https://hub.docker.com/r/hypriot/rpi-whoami/
+
